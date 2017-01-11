@@ -1,6 +1,8 @@
 # Minesweeper
 A Java clone of the Windows Minesweeper  
 Author: Ying Jin, Carnegie Mellon University
+github.com/shonejin  
+https://portfolium.com/shonejin  
 
 ![Alt text](/Screen Shot.png?raw=true "Screen Shot")
 
@@ -39,8 +41,3 @@ Author: Ying Jin, Carnegie Mellon University
 		which means when the player clicks the first cell, and this cell is a mine,
 		the program should move it elsewhere, so the player won't lose immediately
 
-
-#Author
-Ying Jin, Carnegie Mellon University
-github.com/shonejin, 
-https://portfolium.com/shonejin
