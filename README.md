@@ -37,6 +37,7 @@ A Java clone of the Windows Minesweeper
 		the program should move it elsewhere, so the player won't lose immediately
 
 
-Author: Ying Jin, Carnegie Mellon University
-	github.com/shonejin
-	https://portfolium.com/shonejin
+#Author
+Ying Jin, Carnegie Mellon University
+github.com/shonejin, 
+https://portfolium.com/shonejin
