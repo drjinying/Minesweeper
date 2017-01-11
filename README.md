@@ -1,5 +1,8 @@
 # Minesweeper
-A Java clone of the Windows Minesweeper
+A Java clone of the Windows Minesweeper  
+Author: Ying Jin, Carnegie Mellon University
+
+![Alt text](/Screen Shot.png?raw=true "Screen Shot")
 
 #How to run:
 	1. (Double click the jar file)
