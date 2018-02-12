@@ -156,7 +156,6 @@ public class Board {
 			} else
 				bfs(row, col, g);
 		}
-		g.dispose();
 		return true;
 	}
 
@@ -168,7 +167,6 @@ public class Board {
 			states[row][col] = CellStates.COVERED;
 
 		Assets.draw(row, col, states[row][col], g);
-		g.dispose();
 	}
 
 	public GameStates getGameState() {
