@@ -3,7 +3,6 @@ A Java clone of the Windows Minesweeper
   
 Author: Ying Jin, Carnegie Mellon University  
 github.com/shonejin  
-https://portfolium.com/shonejin  
 
 ![Alt text](/Screen Shot.png?raw=true "Screen Shot")
 
