@@ -1,8 +1,9 @@
 # Minesweeper
 A Java clone of the Windows Minesweeper  
-  
 Author: Ying Jin, Carnegie Mellon University  
 https://github.com/drjinying/Minesweeper
+
+![Screenshot](https://github.com/drjinying/Minesweeper/blob/master/Screen%20Shot.png) 
 
 # How to run:
 	1. (Double click the jar file)
