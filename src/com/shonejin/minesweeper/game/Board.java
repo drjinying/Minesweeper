@@ -174,4 +174,12 @@ public class Board {
 	public GameStates getGameState() {
 		return gameState;
 	}
+	// Reset the game state if necessary
+	public void resetGameState() {
+		this.gameState = GameStates.ONGOING;
+	}
+	// Getter for NMines
+	public int getNMines() {
+		return this.NMines;
+	}
 }
